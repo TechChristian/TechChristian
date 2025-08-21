@@ -10,7 +10,7 @@ Apaixonado por tecnologia, estou sempre em busca de aprender, evoluir e construi
 - 🎓 Estudante de ADS na Unicid  
 - 💻 Focado em aprender desenvolvimento **fullstack** 
 - 🧠 Em constante evolução para me tornar um profissional completo na área de tecnologia  
-- 🎮 Hobbies: games, música , filmes.
+- 🎮 Hobbies: games, música , esportes.
 
 ---
 
