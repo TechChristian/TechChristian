@@ -3,9 +3,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Unicid** e tenho o objetivo de me tornar **desenvolvedor fullstack**.  
 Apaixonado por tecnologia, estou sempre em busca de aprender, evoluir e construir projetos que me desafiem a crescer como desenvolvedor.
-
-## 🔗 Meu Linkedin
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/christianlsv/) 
+ 
 ---
 
 ## ⚡ Sobre mim
@@ -27,6 +25,8 @@ Apaixonado por tecnologia, estou sempre em busca de aprender, evoluir e construi
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechChristian&show_icons=true&theme=radical)
 
 ---
+## 🔗 Meu Linkedin
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/christianlsv/)
 
 <!--
 **TechChristian/TechChristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
