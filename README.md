@@ -16,7 +16,7 @@ Apaixonado por tecnologia, estou sempre em busca de aprender, evoluir e construi
 
 ## 🛠️ Tecnologias que uso
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
-
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
 ---
 
 ## 📊 Estatísticas do GitHub
