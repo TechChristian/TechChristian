@@ -1,7 +1,7 @@
 
 ## Olá 👋, me chamo Christian
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Unicid** e tenho o objetivo de me tornar **Desenvolvedor Web**.  
+Atualmente Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Unicid** e tenho o objetivo de me tornar **Desenvolvedor Web**.  
 Apaixonado por tecnologia, estou sempre em busca de aprender, evoluir e construir projetos que me desafiem a crescer como desenvolvedor.
  
 ---
@@ -23,7 +23,7 @@ Apaixonado por tecnologia, estou sempre em busca de aprender, evoluir e construi
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
----
+
 
 ## 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechChristian&show_icons=true&theme=radical)
