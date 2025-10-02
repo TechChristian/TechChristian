@@ -40,7 +40,7 @@ Atualmente Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Unic
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechChristian&show_icons=true&theme=radical)
+[![card](https://github-readme-stats.vercel.app/api?username=TechChristian&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
