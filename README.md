@@ -1,5 +1,4 @@
 ## Olá 👋, me chamo Christian
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 Atualmente Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Unicid** e tenho o objetivo de me tornar **Desenvolvedor Web**.  
  
