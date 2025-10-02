@@ -1,14 +1,3 @@
-## Olá 👋, me chamo Christian
-
-Atualmente Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Unicid** e tenho o objetivo de me tornar **Desenvolvedor Web**.  
- 
- ⚡ **Sobre mim**
-- 🎓 Estudante de ADS na Unicid  
-- 💻 Focado em aprender desenvolvimento **fullstack** 
-- 🧠 Em constante evolução para me tornar um profissional completo na área de tecnologia  
-- 🎮 Hobbies: games, música , esportes.
-
-
 ## Minhas Skills
 
 **Aplicações e dados**
