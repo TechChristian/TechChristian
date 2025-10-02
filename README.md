@@ -1,3 +1,9 @@
+<h1 align="center">👋 Olá, eu sou Christian</h1>
+
+<p align="center">
+  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+</p><br><br>
+
 ## Minhas Skills
 
 **Aplicações e dados**
