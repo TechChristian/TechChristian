@@ -4,7 +4,6 @@
 Atualmente Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Unicid** e tenho o objetivo de me tornar **Desenvolvedor Web**.  
 Apaixonado por tecnologia, estou sempre em busca de aprender, evoluir e construir projetos que me desafiem a crescer como desenvolvedor.
  
----
 
 ## ⚡ Sobre mim
 - 🎓 Estudante de ADS na Unicid  
