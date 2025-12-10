@@ -35,7 +35,12 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-[![card](https://github-readme-stats.vercel.app/api?username=TechChristian&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TechChristian&theme=github_dark)
+
+
+
+
+
 
 ---
 
