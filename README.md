@@ -1,10 +1,21 @@
+
 <h1 align="center">👋 Olá, eu sou Christian</h1>
 
 <p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
-</p><br>
+  💻 Desenvolvedor Backend <br/>
+  🚀 Foco em Java, Spring Boot e APIs REST
+</p>
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+---
+
+## 🎯 Resumo Profissional
+
+Sou estudante de programação com foco em **desenvolvimento backend**, utilizando principalmente **Java e Spring Boot**.  
+Tenho experiência prática no desenvolvimento de **APIs REST**, integração com **bancos de dados MySQL**, versionamento com **Git** e uso de **Docker** para ambientes de desenvolvimento.
+
+---
+
+## 🛠 Stack Técnica
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
@@ -31,20 +42,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </div>
 
-<br/>
-
----
-
 ## 📊 Estatísticas do GitHub
+
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TechChristian&theme=github_dark)
 
-
-
-
-
-
 ---
 
-## 🔗 Meu Linkedin
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/christianlsv/)
+## 🔗 Conecte-se comigo
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/christianlsv/)
