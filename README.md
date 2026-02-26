@@ -10,7 +10,7 @@
 
 ## 🎯 Resumo Profissional
 
-Sou estudante de programação com foco em **desenvolvimento backend**, utilizando principalmente **Java e Spring Boot**.  
+Desenvolvedor com foco em **desenvolvimento backend**, utilizando principalmente **Java e Spring Boot**.  
 Tenho experiência prática no desenvolvimento de **APIs REST**, integração com **bancos de dados MySQL**, versionamento com **Git** e uso de **Docker** para ambientes de desenvolvimento.
 
 ---
