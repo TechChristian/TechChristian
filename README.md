@@ -1,5 +1,11 @@
-# 👋 Olá, eu sou o Christian!!
-
+<div align="center"><pre>   
+  _____         _      ____ _          _     
+ |_   _|__  ___| |__  / ___| |__  _ __(_)___ 
+   | |/ _ \/ __| '_ \| |   | '_ \| '__| / __|
+   | |  __/ (__| | | | |___| | | | |  | \__ \
+   |_|\___|\___|_| |_|\____|_| |_|_|  |_|___/
+                                             
+</pre></div>
 Desenvolvedor back-end Java, focado em arquitetura de software e construção de APIs utilizando Java e Spring Boot.
 
 <div align="left">
